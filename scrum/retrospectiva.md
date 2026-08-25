@@ -8,8 +8,8 @@
 
 ### 🟢 Comenzar a hacer (Start)
 *Acciones nuevas que deberíamos implementar para el próximo TP.*
-- [ ] Implementar un archivo `.gitignore` desde el día 1 para evitar subir archivos temporales de MPLAB X.
-- [ ] Dividir mejor las ramas de Git (*feature branches*) para que dos personas no editen el mismo archivo `.asm` al mismo tiempo.
+- [ ] Hacer siempre un pull al repo antes de empezar a modificar archivos.
+- [ ] Informar efectivamente a los demás miembros del equipo que estamos por pushear cambios al repo.
 
 ### 🔴 Dejar de hacer (Stop)
 *Prácticas o hábitos que perjudicaron al equipo durante este TP.*
